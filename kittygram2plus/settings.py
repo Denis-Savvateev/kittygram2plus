@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_filters',
     'djoser',
+    'drf_yasg',
     'cats.apps.CatsConfig',
 ]
 
